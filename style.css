@@ -1,0 +1,15 @@
+ody {
+    font-family: sans-serif;
+}
+header{
+    background-color: blue;
+}
+ul{
+    list-style:url("https://learn.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg") ;
+}
+footer{
+  background-color: blue;
+}
+main p{
+    border-top: 5px;
+}
